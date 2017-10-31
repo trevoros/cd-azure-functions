@@ -1,0 +1,18 @@
+{
+  "name": "logistico-labels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://magaya_development@logistico-labels.scm.azurewebsites.net:443/logistico-labels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}
